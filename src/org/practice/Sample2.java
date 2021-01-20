@@ -15,5 +15,8 @@ public class Sample2 {
 
 	}
 	
+private void subed() {
+	// TODO Auto-generated method stub
 
+}
 }
