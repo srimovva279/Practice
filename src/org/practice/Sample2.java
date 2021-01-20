@@ -9,5 +9,11 @@ public class Sample2 {
 		System.out.println("jagadeesh");
 
 	}
+	
+	private void added() {
+		// TODO Auto-generated method stub
+
+	}
+	
 
 }
