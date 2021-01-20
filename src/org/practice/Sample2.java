@@ -1,0 +1,13 @@
+package org.practice;
+
+public class Sample2 {
+
+	public static void main(String[] args) {
+		
+		System.out.println("praveen");
+		System.out.println("Srikanth");
+		System.out.println("jagadeesh");
+
+	}
+
+}
